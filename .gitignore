@@ -10,3 +10,5 @@ coverage/
 *.zip
 .vscode/
 .zcode/
+
+.vite/
